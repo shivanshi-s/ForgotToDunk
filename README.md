@@ -3,14 +3,16 @@
 
 This repository consists of a basketball game with a twist, made for Slam Dunk Hacks By MLH ! 
 
-### About
+![ftdbanner](assets/ftd.png)
+
+## About
 forgottodunk.us is a simple browser game made with HTML, CSS and JavaScript made on the weekend for `Slam Dunk Hacks` conducted by MLH.
 
-### How to Play
+## How to Play
 The game is simple - hit the scared human with the ball ( take the ball's revenge of being slammed in the net all the time ) and gain a point!
 Try and beat your own high score, let's see how far you go :P
 
-### The Look and Feel 
+## The Look and Feel 
 ![](assets/game1.png)
 <br>
 
